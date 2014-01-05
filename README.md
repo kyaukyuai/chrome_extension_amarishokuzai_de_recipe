@@ -5,9 +5,10 @@ Chrome Extension: 余り食材deレシピ
 
 - 冷蔵庫の余り食材から本日の献立を提案する拡張機能
 
+![Image](icons/440x280.png)
+
 ### Images
 
-![Image](icons/440x280.png)
 ![Image](icons/new_screen_shot3.jpg)
 
 ### How to use
