@@ -1,6 +1,6 @@
 {
         "name": "余り食材deレシピ",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "manifest_version": 2,
         "description": "冷蔵庫の余り食材から本日の献立を提案します",
         "content_security_policy": "script-src 'self' https://recipe4u.herokuapp.com; object-src 'self'",
