@@ -8,7 +8,7 @@
                   "128": "icons/128_icon.png" },
         "browser_action": {
                 "default_title": "余り食材deレシピ",
-                "default_icon" : "icons/default_icon.jpg",
+                "default_icon" : "icons/default_icon.png",
                 "default_popup": "show_recipe.html"
         },
         "permissions": [ "tabs", "https://recipe4u.herokuapp.com/*", "http://recipe4u.herokuapp.com/*", "http://*/*", "https://*/*" ],
